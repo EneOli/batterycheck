@@ -1,0 +1,6 @@
+C:\Users\Oliver\source\repos\BatteryCheck\BatteryCheck\bin\Debug\BatteryCheck.exe.config
+C:\Users\Oliver\source\repos\BatteryCheck\BatteryCheck\bin\Debug\BatteryCheck.exe
+C:\Users\Oliver\source\repos\BatteryCheck\BatteryCheck\bin\Debug\BatteryCheck.pdb
+C:\Users\Oliver\source\repos\BatteryCheck\BatteryCheck\obj\Debug\BatteryCheck.csprojAssemblyReference.cache
+C:\Users\Oliver\source\repos\BatteryCheck\BatteryCheck\obj\Debug\BatteryCheck.exe
+C:\Users\Oliver\source\repos\BatteryCheck\BatteryCheck\obj\Debug\BatteryCheck.pdb
