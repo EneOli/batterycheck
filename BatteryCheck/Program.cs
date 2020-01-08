@@ -21,10 +21,10 @@ namespace BatteryCheck
 
                 if (batteryLifePercent <= 20)
                 {
-                    await client.GetAsync("192.168.1.100");
+                    await client.GetAsync("http://192.168.1.100");
                     //payload
-                    //var content = new StringContent("", Encoding.UTF8, "application/json");
-                    //await client.PostAsync("greetings from c#", content);
+                    //var content = new StringContent("greetings from c#", Encoding.UTF8, "application/json");
+                    //await client.PostAsync("http://192.168.1.100", content);
                 }
 
                 System.Threading.Thread.Sleep(5000); // thread sync
